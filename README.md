@@ -18,14 +18,14 @@
 
 <!-- ANIMATED CODING METRICS - Replaces static stats -->
 <p align="center">
-  <a href="https://metrics.lecoq.io/geraldsadya?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1">
-    <img src="https://metrics.lecoq.io/geraldsadya?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1" alt="Detailed GitHub Metrics" width="70%" />
+  <a href="https://github-readme-stats.vercel.app/api?username=geraldsadya&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=geraldsadya&show_icons=true&theme=tokyonight" alt="Detailed GitHub Metrics" width="70%" />
   </a>
 </p>
 
 <!-- TERMINAL STYLE INFORMATION SECTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies;Gaming+%26+Coding+Addict" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <hr />
@@ -49,10 +49,7 @@ Check out my [portfolio](https://geraldsadya.netlify.app) to see my journey in d
   <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,git,react,nodejs,express,mongodb,aws,docker&perline=6" />
 </p>
 
-<!-- VISUAL CODE TIME STATS - Optional but cool -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=geraldsadya&layout=compact&theme=tokyonight" alt="WakaTime Stats" width="70%" />
-</p>
+<!-- Removed broken WakaTime Stats block -->
 
 <hr />
 
@@ -60,27 +57,10 @@ Check out my [portfolio](https://geraldsadya.netlify.app) to see my journey in d
 
 ### Featured Projects
 
-<!-- DYNAMIC PROJECT CARDS -->
+<!-- Using a working pinned repositories card -->
 <p align="center">
-  <a href="https://github.com/geraldsadya/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=geraldsadya&repo=project-one&theme=tokyonight" alt="Project One" width="48%" />
-  </a>
-  <a href="https://github.com/geraldsadya/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=geraldsadya&repo=project-two&theme=tokyonight" alt="Project Two" width="48%" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/pinned_repos?username=geraldsadya&theme=tokyonight" alt="Pinned Repositories" width="100%" />
 </p>
-
-<details>
-  <summary>View More Projects</summary>
-  <p align="center">
-    <a href="https://github.com/geraldsadya/project-three">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=geraldsadya&repo=project-three&theme=tokyonight" alt="Project Three" width="48%" />
-    </a>
-    <a href="https://github.com/geraldsadya/project-four">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=geraldsadya&repo=project-four&theme=tokyonight" alt="Project Four" width="48%" />
-    </a>
-  </p>
-</details>
 
 *For a full list of my projects, check out my [repositories](https://github.com/geraldsadya?tab=repositories).*
 
@@ -88,9 +68,9 @@ Check out my [portfolio](https://geraldsadya.netlify.app) to see my journey in d
 
 ## 📊 GitHub Activity
 
-<!-- ACTIVITY GRAPH - Shows your actual contribution patterns -->
+<!-- Updated Activity Graph -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=geraldsadya&theme=react-dark" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geraldsadya&theme=react-dark" alt="Contribution Graph" width="100%" />
 </p>
 
 <!-- 3D CONTRIBUTION CALENDAR - Super cool visualization -->
@@ -138,31 +118,16 @@ Check out my [portfolio](https://geraldsadya.netlify.app) to see my journey in d
 
 <hr />
 
-## 📚 Blog & Writing
-
-I share my insights on tech, coding, and creativity on my personal blog. Check out my latest posts:
-
-- **[Latest Post Title](https://geraldsadya.netlify.app/blog/latest-post)**  
-  A brief summary of the post.
-
-- **[Another Interesting Read](https://geraldsadya.netlify.app/blog/another-post)**  
-  A short description here.
-
-Feel free to explore and leave your thoughts in the comments!
-
-<hr />
-
 ## ⚡ Fun & Personal
 
 <!-- SPOTIFY CURRENTLY PLAYING - Real-time music display -->
 <p align="center">
   <a href="https://open.spotify.com/user/youruserid" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=youruserid&cover_image=true&theme=novatorem" alt="Spotify Currently Playing" width="70%" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=youruserid&cover_image=true&theme=novatorem" alt="Spotify Currently Playing" width="70%" />
   </a>
 </p>
 
 When I'm not in front of the computer, I'm:
-- 🎮 Gaming and exploring virtual worlds.
 - 🎵 Curating playlists and discovering new music.
 - 🚴‍♂️ Out for a run or working out to stay energized.
 
