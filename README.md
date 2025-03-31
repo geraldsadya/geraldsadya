@@ -32,11 +32,11 @@
 
 ## 🌟 About Me
 
-I'm **Gerald Sadya**, a passionate developer with a relentless drive to learn, innovate, and build extraordinary solutions. With a background in [insert field/experience here], I specialize in blending creative design with powerful code. When I'm not coding, you can find me diving into new tech, exploring gaming worlds, or brainstorming the next big idea.
+I'm Gerald Sadya and this is my profile which showcases my attempt at being competent at coding. I have a background in computer science and computer engineering (not that it means anything in this day and age... but also doesn't mean anything). Anyways, this is some of the stuff I've decided to share with the public or was too bothered to keep on my computer, so I uploaded it here.
 
-- 🔭 **Currently Working On:** Cutting-edge projects that merge design, code, and creativity.
-- 🌱 **Learning:** Advanced algorithms, cloud-native applications, and emerging tech.
-- ⚡ **Fun Fact:** I'm always hunting for the next hackathon or tech meetup to connect and collaborate.
+- 🔭 **Currently Working On:** Projects that merge design, code and creativity.
+- 🌱 **Learning:** How to be a backend developer
+- ⚡ **Fun Fact:**  Literally just watched Star Wars for the first time and decided to make a portfolio in 3js using that as the theme. It's right here.
 
 Check out my [portfolio](https://geraldsadya.netlify.app) to see my journey in detail.
 
