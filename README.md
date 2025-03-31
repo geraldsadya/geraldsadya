@@ -2,7 +2,7 @@
 <!--                         ULTIMATE GITHUB README                              -->
 <!-- ============================================================================= -->
 
-<h1 align="center">Hey, I'm Gerald Sadya 👋</h1>
+<h1 align="center">Greetings young Padawan 👋</h1>
 
 <p align="center">
   <a href="https://geraldsadya.netlify.app" target="_blank">
@@ -16,16 +16,10 @@
   </a>
 </p>
 
-<!-- ANIMATED CODING METRICS - Replaces static stats -->
-<p align="center">
-  <a href="https://metrics.lecoq.io/geraldsadya?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1">
-    <img src="https://metrics.lecoq.io/geraldsadya?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1" alt="Detailed GitHub Metrics" width="70%" />
-  </a>
-</p>
 
 <!-- TERMINAL STYLE INFORMATION SECTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies;Gaming+%26+Coding+Addict" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Back+End+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <hr />
