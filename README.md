@@ -2,7 +2,7 @@
 <!--                         ULTIMATE GITHUB README                              -->
 <!-- ============================================================================= -->
 
-<h1 align="center">Greetings young Padawan ![yoda](https://github.com/user-attachments/assets/0c17613a-04d3-4625-9825-c005072ce6d7)
+<h1 align="center">Greetings young Padawan
 </h1>
 
 <p align="center">
