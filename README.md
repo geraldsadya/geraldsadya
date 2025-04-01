@@ -54,9 +54,9 @@ Check out my [portfolio](https://geraldsadya.netlify.app) to see my journey in d
 
 ## ✨ Highlights & Achievements
 
-- 🏆 **Hackathons & Competitions:** Winner/Finalist at [Event Name] for developing innovative solutions.
-- 📜 **Certifications:** [List relevant certifications or courses]
-- 🎤 **Speaker/Contributor:** Participated in tech meetups and conferences, sharing insights on modern development practices.
+- 🏆 **Hackathons & Competitions:
+- 📜 **Certifications:** 
+- 🎤 **Speaker/Contributor:
 
 <!-- PROFILE TROPHIES - Visual representation of GitHub achievements -->
 <p align="center">
