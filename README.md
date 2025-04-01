@@ -1,7 +1,3 @@
-<!-- ============================================================================= -->
-<!--                         ULTIMATE GITHUB README                              -->
-<!-- ============================================================================= -->
-
 <h1 align="center">Greetings young Padawan
 </h1>
 
@@ -54,9 +50,9 @@ Check out my [portfolio](https://geraldsadya.netlify.app) to see my journey in d
 
 ## ✨ Highlights & Achievements
 
-- 🏆 **Hackathons & Competitions:
+- 🏆 **Hackathons & Competitions:**
 - 📜 **Certifications:** 
-- 🎤 **Speaker/Contributor:
+- 🎤 **Speaker/Contributor:**
 
 <!-- PROFILE TROPHIES - Visual representation of GitHub achievements -->
 <p align="center">
