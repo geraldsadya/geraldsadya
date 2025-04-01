@@ -51,36 +51,6 @@ Check out my [portfolio](https://geraldsadya.netlify.app) to see my journey in d
 
 <hr />
 
-## 🚀 Projects & Contributions
-
-### Featured Projects
-
-<!-- DYNAMIC PROJECT CARDS -->
-<p align="center">
-  <a href="https://github.com/geraldsadya/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=geraldsadya&repo=project-one&theme=tokyonight" alt="Project One" width="48%" />
-  </a>
-  <a href="https://github.com/geraldsadya/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=geraldsadya&repo=project-two&theme=tokyonight" alt="Project Two" width="48%" />
-  </a>
-</p>
-
-<details>
-  <summary>View More Projects</summary>
-  <p align="center">
-    <a href="https://github.com/geraldsadya/project-three">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=geraldsadya&repo=project-three&theme=tokyonight" alt="Project Three" width="48%" />
-    </a>
-    <a href="https://github.com/geraldsadya/project-four">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=geraldsadya&repo=project-four&theme=tokyonight" alt="Project Four" width="48%" />
-    </a>
-  </p>
-</details>
-
-*For a full list of my projects, check out my [repositories](https://github.com/geraldsadya?tab=repositories).*
-
-<hr />
-
 ## 📊 GitHub Activity
 
 <!-- ACTIVITY GRAPH - Shows your actual contribution patterns -->
