@@ -51,21 +51,6 @@ Check out my [portfolio](https://geraldsadya.netlify.app) to see my journey in d
 
 <hr />
 
-## 📊 GitHub Activity
-
-<!-- ACTIVITY GRAPH - Shows your actual contribution patterns -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=geraldsadya&theme=react-dark" alt="Contribution Graph" width="100%" />
-</p>
-
-<!-- 3D CONTRIBUTION CALENDAR - Super cool visualization -->
-<p align="center">
-  <a href="https://skyline.github.com/geraldsadya/2023" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%203D%20Contribution%20Calendar-skyline.github.com-blue?style=for-the-badge&logo=github" alt="3D Contribution Calendar">
-  </a>
-</p>
-
-<hr />
 
 ## ✨ Highlights & Achievements
 
@@ -76,29 +61,6 @@ Check out my [portfolio](https://geraldsadya.netlify.app) to see my journey in d
 <!-- PROFILE TROPHIES - Visual representation of GitHub achievements -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=geraldsadya&theme=onedark&column=7&no-frame=true" alt="GitHub Trophies" width="100%" />
-</p>
-
-<hr />
-
-## 📫 How to Reach Me
-
-<!-- ANIMATED SOCIAL MEDIA SECTION -->
-<p align="center">
-  <a href="https://geraldsadya.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Website" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/yourTwitterHandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.gg/yourserver" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </p>
 
 <hr />
