@@ -85,22 +85,13 @@ Feel free to explore and leave your thoughts in the comments!
 </p>
 
 When I'm not in front of the computer, I'm:
-- 🎮 Gaming and exploring virtual worlds.
-- 🎵 Curating playlists and discovering new music.
+- 🎮 Playing basketball and football
+- 🎵 Lifting weights
 - 🚴‍♂️ Out for a run or working out to stay energized.
 
-<!-- VISITOR COUNTER - Shows page visits -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=geraldsadya.geraldsadya" alt="visitor badge"/>
-</p>
-
-*"Stay hungry, stay foolish." — Steve Jobs*
+*"Power is power." — Cersei Lannister*
 
 <!-- SNAKE ANIMATION - Eats your contribution grid -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
-<!-- ============================================================================= -->
-<!--                           END OF README                                      -->
-<!-- ============================================================================= -->
