@@ -89,7 +89,7 @@ When I'm not in front of the computer, I'm:
 - 🎵 Lifting weights
 - 🚴‍♂️ Out for a run or working out to stay energized.
 
-*"Power is power." — Cersei Lannister*
+*"Code is like humor. When you have to explain it, it’s bad." — Cory House*
 
 <!-- SNAKE ANIMATION - Eats your contribution grid -->
 <p align="center">
