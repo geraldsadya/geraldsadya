@@ -177,7 +177,7 @@ def gerald_offline():
 
 ## 💫 THE JOURNEY CONTINUES
 
-<img src="https://github.com/geraldsadya/geraldsadya/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/geraldsadya/geraldsadya/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 ### 🎯 Current Mission
 *Building the future, one commit at a time*
