@@ -1,97 +1,196 @@
-<h1 align="center">Greetings...
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://geraldsadya.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-geraldsadya.netlify.app-blue?style=for-the-badge" alt="Portfolio Badge">
-  </a>
-  <a href="https://github.com/geraldsadya" target="_blank">
-    <img src="https://img.shields.io/github/followers/geraldsadya?style=for-the-badge&color=green" alt="GitHub Followers Badge">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Connect%20with%20me-red?style=for-the-badge" alt="Email Badge">
-  </a>
-</p>
+# 🌌 GERALD SADYA
+### `> whoami`
+**Backend Developer | Code Architect | Digital Craftsman**
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Matrix&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<!-- TERMINAL STYLE INFORMATION SECTION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Back+End+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Demo-00D9FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1a1a)](https://geraldsadya.netlify.app)
+[![GitHub](https://img.shields.io/github/followers/geraldsadya?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=000&color=00D9FF)](https://github.com/geraldsadya)
+[![Email](https://img.shields.io/badge/📧_Contact-Let's_Connect-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:your.email@example.com)
 
-<hr />
+</div>
 
-## 🌟 About Me
+---
 
-I'm Gerald Sadya and this is my profile which showcases my attempt at being competent at coding. I have a background in computer science and computer engineering (not that it means anything in this day and age... but also doesn't mean anything). Anyways, this is some of the stuff I've decided to share with the public or was too bothered to keep on my computer, so I uploaded it here.
+<div align="center">
 
-- 🔭 **Currently Working On:** Projects that merge design, code and creativity.
-- 🌱 **Learning:** How to be a backend developer
-- ⚡ **Fun Fact:**  Literally just watched Star Wars for the first time and decided to make a portfolio in 3js using that as the theme. It's right here.
+## 🎯 CURRENT STATUS
 
-Check out my [portfolio](https://geraldsadya.netlify.app) to see my journey in detail.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=🚀+Backend+Developer+%7C+Systems+Architect;⚡+Building+Scalable+Solutions;🎨+Code+%2B+Creativity+%2B+Innovation;🌟+Open+Source+Enthusiast;💡+Always+Learning+%7C+Always+Growing" alt="Typing Animation" />
 
-<hr />
+</div>
 
-## 💻 Tech Stack
+<div align="center">
+<table>
+<tr>
+<td>
 
-<!-- ANIMATED TECH STACK SECTION -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,git,react,nodejs,express,mongodb,aws,docker&perline=6" />
-</p>
+### 🎭 THE ARCHITECT BEHIND THE CODE
 
-<!-- VISUAL CODE TIME STATS - Optional but cool -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=geraldsadya&layout=compact&theme=tokyonight" alt="WakaTime Stats" width="70%" />
-</p>
+```javascript
+const gerald = {
+    location: "Earth 🌍",
+    currentRole: "Backend Developer",
+    codePhilosophy: "Clean, scalable, maintainable",
+    currentlyLearning: ["System Design", "Cloud Architecture"],
+    funFact: "Just discovered Star Wars → Built 3D portfolio",
+    lifeGoal: "Write code that changes the world",
+    coffeeDrunk: "∞ cups ☕"
+};
+```
 
-<hr />
+</td>
+<td>
 
+<img src="https://github.com/geraldsadya/geraldsadya/blob/main/assets/coding.gif" width="300" alt="Coding GIF"/>
 
-## ✨ Highlights & Achievements
+</td>
+</tr>
+</table>
+</div>
 
-- 🏆 **Hackathons & Competitions:**
-- 📜 **Certifications:** 
-- 🎤 **Speaker/Contributor:**
+---
 
-<!-- PROFILE TROPHIES - Visual representation of GitHub achievements -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=geraldsadya&theme=onedark&column=7&no-frame=true" alt="GitHub Trophies" width="100%" />
-</p>
+<div align="center">
 
-<hr />
+## ⚡ TECH ARSENAL
 
-## 📚 Blog & Writing
+### 🔥 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,nodejs,express,react,nextjs&theme=dark" />
 
-I share my insights on tech, coding, and creativity on my personal blog. Check out my latest posts:
+### 🛠️ Tools & Technologies  
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,aws,docker,kubernetes,git,linux&theme=dark" />
 
-- **[Latest Post Title](https://geraldsadya.netlify.app/blog/latest-post)**  
-  A brief summary of the post.
+### 🎨 Design & Deployment
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,netlify,vercel,github,vscode&theme=dark" />
 
-- **[Another Interesting Read](https://geraldsadya.netlify.app/blog/another-post)**  
-  A short description here.
+</div>
 
-Feel free to explore and leave your thoughts in the comments!
+<div align="center">
 
-<hr />
+## 📊 PERFORMANCE METRICS
 
-## ⚡ Fun & Personal
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=geraldsadya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=geraldsadya&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
-<!-- SPOTIFY CURRENTLY PLAYING - Real-time music display -->
-<p align="center">
-  <a href="https://open.spotify.com/user/youruserid" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=youruserid&cover_image=true&theme=novatorem" alt="Spotify Currently Playing" width="70%" />
-  </a>
-</p>
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldsadya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
-When I'm not in front of the computer, I'm:
-- 🎮 Playing basketball and football
-- 🎵 Lifting weights
-- 🚴‍♂️ Out for a run or working out to stay energized.
+</div>
 
-*"Code is like humor. When you have to explain it, it’s bad." — Cory House*
+---
 
-<!-- SNAKE ANIMATION - Eats your contribution grid -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<div align="center">
+
+## 🏆 ACHIEVEMENT GALLERY
+
+<img src="https://github-profile-trophy.vercel.app/?username=geraldsadya&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎵 CURRENTLY VIBING TO
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=youruserid&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&border_color=00D9FF)](https://open.spotify.com/user/youruserid)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 [Star Wars 3D Portfolio](https://geraldsadya.netlify.app)
+**Three.js | React | Creative Coding**
+
+*Immersive 3D experience inspired by a galaxy far, far away*
+
+[![Repo](https://img.shields.io/badge/Repo-View_Code-00D9FF?style=for-the-badge&logo=github)](https://github.com/geraldsadya/portfolio)
+[![Demo](https://img.shields.io/badge/Demo-Live_Site-FF6B6B?style=for-the-badge&logo=netlify)](https://geraldsadya.netlify.app)
+
+</td>
+<td width="50%">
+
+### ⚡ [Latest Backend Project]
+**Node.js | MongoDB | Docker**
+
+*Scalable microservices architecture with real-time features*
+
+[![Repo](https://img.shields.io/badge/Repo-View_Code-00D9FF?style=for-the-badge&logo=github)](#)
+[![Demo](https://img.shields.io/badge/Demo-Live_API-FF6B6B?style=for-the-badge&logo=heroku)](#)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📝 LATEST THOUGHTS
+
+### 💭 From My Digital Journal
+
+> **"The Art of Clean Code"** - *Exploring the philosophy behind maintainable software*  
+> **"Scaling Beyond Limits"** - *My journey with microservices and cloud architecture*  
+> **"First Time with Star Wars"** - *How a movie inspired a 3D portfolio*
+
+[📖 Read More on My Blog](https://geraldsadya.netlify.app/blog)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎮 WHEN NOT CODING
+
+```python
+def gerald_offline():
+    activities = [
+        "🏀 Dominating the basketball court",
+        "⚽ Perfecting my football skills", 
+        "🏋️‍♂️ Lifting heavy things and putting them down",
+        "🏃‍♂️ Running towards new horizons",
+        "🎮 Exploring virtual worlds",
+        "📚 Reading about the next big tech trend"
+    ]
+    return random.choice(activities)
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 💫 THE JOURNEY CONTINUES
+
+<img src="https://github.com/geraldsadya/geraldsadya/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+### 🎯 Current Mission
+*Building the future, one commit at a time*
+
+**"Code is poetry written in logic"** - *Gerald Sadya*
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
+**⭐ If you find my work interesting, consider starring some repos!**
+
+[![GitHub](https://img.shields.io/badge/Follow-@geraldsadya-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geraldsadya)
+[![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://geraldsadya.netlify.app)
+
+</div>
