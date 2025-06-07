@@ -177,7 +177,14 @@ def gerald_offline():
 
 ## 💫 THE JOURNEY CONTINUES
 
+<!-- Matrix Rain Effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=3000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=400&lines=Wake+up%2C+Neo...;The+Matrix+has+you;Follow+the+white+rabbit;Knock%2C+knock%2C+Neo;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93;%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91+;+%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93;%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91%E2%96%93%E2%96%88%E2%96%91+;+01001000+01100101+01101100+01101100+01101111;+01010111+01101111+01110010+01101100+01100100;;;;;;;;;;;;;;;;;+WELCOME+TO+THE+MATRIX;+GERALD+SADYA+%7C+CODE+ARCHITECT" alt="Matrix Effect" />
+
+<!-- Contribution Snake -->
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<!-- 3D Isometric Commit Calendar -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=geraldsadya&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Activity Graph" />
 
 ### 🎯 Current Mission
 *Building the future, one commit at a time*
