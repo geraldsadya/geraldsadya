@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Demo-00D9FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1a1a)](https://geraldsadya.netlify.app)
 [![GitHub](https://img.shields.io/github/followers/geraldsadya?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=000&color=00D9FF)](https://github.com/geraldsadya)
-[![Email](https://img.shields.io/badge/📧_Contact-Let's_Connect-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/📧_Contact-Let's_Connect-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a)](mailto:sdymun001@myuct.ac.za)
 
 </div>
 
