@@ -146,7 +146,7 @@ const gerald = {
 > **"Scaling Beyond Limits"** - *My journey with microservices and cloud architecture*  
 > **"First Time with Star Wars"** - *How a movie inspired a 3D portfolio*
 
-[📖 Read More on My Blog](https://geraldsadya.netlify.app/blog)
+[📖 Read More on My Blog](https://geraldsadyablog.onrender.com/)
 
 </div>
 
