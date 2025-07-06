@@ -16,7 +16,7 @@
 
 <div align="center">
 
-## 🎯 CURRENT STATUS
+## 🎯 LOCKED IN
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=🚀+Backend+Developer+%7C+Systems+Architect;⚡+Building+Scalable+Solutions;🎨+Code+%2B+Creativity+%2B+Innovation;🌟+Open+Source+Enthusiast;💡+Always+Learning+%7C+Always+Growing" alt="Typing Animation" />
 
